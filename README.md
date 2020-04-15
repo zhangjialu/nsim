@@ -1,22 +1,18 @@
 # nsim
 
-> An electron-vue project
+> 图形化建模仿真平台
 
-#### Build Setup
+![操作演示](static/操作演示.gif)
 
-``` bash
-# install dependencies
-npm install
+主界面
 
-# serve with hot reload at localhost:9080
-npm run dev
+![主界面](static/界面.png)
 
-# build electron application for production
-npm run build
+模块测试
 
+![部分模块测试](static/部分模块测试.png)
 
-```
+丧失热阱停堆保护
 
----
-
-This project was generated with [electron-vue](https://github.com/SimulatedGREG/electron-vue)@[8fae476](https://github.com/SimulatedGREG/electron-vue/tree/8fae4763e9d225d3691b627e83b9e09b56f6c935) using [vue-cli](https://github.com/vuejs/vue-cli). Documentation about the original structure can be found [here](https://simulatedgreg.gitbooks.io/electron-vue/content/index.html).
+![丧失热阱停堆保护_初始条件](./static/丧失热阱停堆保护_初始条件.png)
+![丧失热阱停堆保护_停堆条件](static/丧失热阱停堆保护_停堆条件.png)
